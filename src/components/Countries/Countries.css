@@ -1,0 +1,11 @@
+.main{
+    padding:0px 30px;
+    margin:0px 30px;
+}
+.title{
+text-align: center;
+}
+.countries{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
